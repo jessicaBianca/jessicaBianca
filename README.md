@@ -67,6 +67,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="50" height="50"/>
 </a>&nbsp;
 
+<br><br>
 <a href="https://www.guiafoca.org/">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
 </a>&nbsp;
