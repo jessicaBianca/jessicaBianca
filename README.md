@@ -76,3 +76,8 @@
 <a href="https://www.linkedin.com/in/j%C3%A9ssica-bianca/" target="_blank">
   <img align="center" alt="jessica-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
+
+<br>
+<p align="center">
+<img src="https://media.giphy.com/media/QsaX5IH80OgW4w9NA0/giphy.gif">
+<p>
