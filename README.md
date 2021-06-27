@@ -7,7 +7,7 @@
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaBianca&layout=compact&theme=dracula)](https://github.com/jessicaBianca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaBianca&layout=compact&theme=dark)](https://github.com/jessicaBianca/github-readme-stats)
 
  
  
