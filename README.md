@@ -1,9 +1,7 @@
-### Hey, 
 # I'm Jéssica Bianca ✌
 
 - I live in Brazil 	:green_heart::yellow_heart:
 - I have been learning about Java, Selenium Web Driver, Cucumber and Junit 
-
 
 ## Most Used Languages
 
