@@ -5,6 +5,7 @@
 
 # Tecnologias
 
+
 <a href="https://www.java.com/pt-BR/">
       <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="python" width="50" height="50">
 </a> &nbsp;
@@ -26,11 +27,7 @@
 
 <a href="https://python.org.br/">
       <img align="center" src="https://python.org.br/theme/img/site-logo.svg" alt="python" width="50" height="50">
-</a> &nbsp;
-
-
-
-
+</a> &nbsp; 
  
  ## Conecte-se comigo:
 <a href="https://www.linkedin.com/in/j%C3%A9ssica-bianca/" target="_blank">
