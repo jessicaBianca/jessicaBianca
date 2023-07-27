@@ -1,7 +1,7 @@
 ## Olá, eu sou a Jéssica 😎✌️
 
 - Trabalho como QA / Automation Tester🔥 
-- Estou aprimorando minhas habilidades em: Java, Rest Assured + API
+- Estou aprimorando minhas habilidades em: Cypress & Rest Assured 
 
 # Tecnologias
 
