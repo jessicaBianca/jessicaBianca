@@ -1,6 +1,6 @@
 ## Olá, eu sou a Jéssica✌️
 
-Especialista em automação de testes com foco em testes regressivos. Com vasta experiência e profundo conhecimento em frameworks e ferramentas de automação.
+Especialista em automação de testes com foco em testes regressivos. Possuo vasta experiência e profundo conhecimento em frameworks e ferramentas de automação.
 
 # Tecnologias
 
@@ -24,9 +24,6 @@ Especialista em automação de testes com foco em testes regressivos. Com vasta 
 <img align="center" src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="50" height="50"/>
 </a> &nbsp;
 
-<a href="https://python.org.br/">
-      <img align="center" src="https://python.org.br/theme/img/site-logo.svg" alt="python" width="50" height="50">
-</a> &nbsp; 
  
  ## Conecte-se comigo:
 <a href="https://www.linkedin.com/in/j%C3%A9ssica-bianca/" target="_blank">
