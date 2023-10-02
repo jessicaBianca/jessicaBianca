@@ -1,7 +1,6 @@
-## Olá, eu sou a Jéssica 😎✌️
+## Olá, eu sou a Jéssica✌️
 
-- Trabalho como QA / Automation Tester🔥 
-- Estou aprimorando minhas habilidades em: Cypress & Rest Assured 
+Especialista em automação de testes com foco em testes regressivos. Com vasta experiência e profundo conhecimento em frameworks e ferramentas de automação.
 
 # Tecnologias
 
