@@ -16,10 +16,6 @@ Especialista em automação de testes com foco em testes regressivos. Possuo vas
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/>
 </a>
 
-<a href="https://rest-assured.io/">
-      <img align="center" src="https://rest-assured.io/img/logo-transparent.png" alt="restAssured" width="50" height="50">
-</a> &nbsp;
-
  
  ## Conecte-se comigo:
 <a href="https://www.linkedin.com/in/j%C3%A9ssica-bianca/" target="_blank">
