@@ -1,28 +1,54 @@
-## Olá, eu sou a Jéssica✌️
+# Olá! Eu sou a Jéssica 👋
 
-Especialista em automação de testes com foco em testes regressivos. Possuo vasta experiência e profundo conhecimento em frameworks e ferramentas de automação.
+### Especialista em Automação de Testes
 
-# Tecnologias
+Bem-vindo ao meu perfil! Sou apaixonada por **tecnologia** e **qualidade de software**, sempre buscando aprender e implementar soluções inovadoras.
 
+---
 
-<a href="https://www.java.com/pt-BR/">
-      <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="python" width="50" height="50">
-</a> &nbsp;
+## 🚀 Tecnologias e Ferramentas que eu domino:
 
-<a href="https://www.selenium.dev" target="_blank"> 
- <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" align="center"></a>&nbsp;
+### Linguagens de Programação
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<a href="https://cucumber.io/">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/>
-</a>
+### Ferramentas de Automação de Testes
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-00B5E2?style=for-the-badge&logo=robot-framework&logoColor=white)  
+![Appium](https://img.shields.io/badge/Appium-25C2A0?style=for-the-badge&logo=appium&logoColor=white)  
+![Cucumber](https://img.shields.io/badge/Cucumber-23D11B?style=for-the-badge&logo=cucumber&logoColor=white)
 
- 
- ## Conecte-se comigo:
-<a href="https://www.linkedin.com/in/j%C3%A9ssica-bianca/" target="_blank">
-  <img align="center" alt="jessica-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</a>
+### Ferramentas de Integração Contínua e Versionamento
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<br>
-<p align="center">
-<img src="https://media.giphy.com/media/QsaX5IH80OgW4w9NA0/giphy.gif">
-<p>
+### Ferramentas para Testes e Consultas
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Metodologias Ágeis
+![Scrum](https://img.shields.io/badge/Scrum-FFB13B?style=for-the-badge&logo=scrum&logoColor=white)  
+![Kanban](https://img.shields.io/badge/Kanban-00B0B9?style=for-the-badge&logo=kanban&logoColor=white)
+
+### Gestão de Projetos e Testes
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![ALM](https://img.shields.io/badge/ALM-16B2FF?style=for-the-badge&logo=alm&logoColor=white)
+
+### Automação em Salesforce
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E4?style=for-the-badge&logo=salesforce&logoColor=white)
+
+---
+
+## 🔧 O que eu faço?
+
+- **Automação de Testes**: Crio frameworks de automação robustos para testes de sistemas web e aplicativos móveis.
+- **Planejamento e Execução de Testes**: Planejo, executo e avalio testes manuais e automatizados, garantindo a qualidade de aplicações e sistemas.
+- **Atuo com Metodologias Ágeis**: Trabalho com equipes ágeis aplicando práticas de **Scrum** e **Kanban** para garantir entregas de alto impacto.
+
+## 📫 Vamos conversar?
+
+Fique à vontade para explorar meus projetos! Se você tem algo em mente ou quer discutir sobre automação de testes, qualidade de software, ou qualquer outro assunto, é só me chamar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicabiancaoliveira/)  
+---
